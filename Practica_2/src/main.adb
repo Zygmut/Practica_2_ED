@@ -3,8 +3,6 @@ with d_conjunto;
 
 procedure Main is
 
-   -- Declarations
-
    subtype alphabet is Character range ' ' .. 'z';
 
    package d_frequency_table is new d_conjunto (alphabet, Integer);
@@ -21,7 +19,6 @@ procedure Main is
    -- Prints all the values of a set
    procedure printSet(set: in conjunto; into: in File_Type) is
 
-      -- Declarations
       i: iterador;
       k: alphabet;
       f: Integer;
@@ -39,7 +36,6 @@ procedure Main is
    -- Adds of modifies a key frequency of a given set
    procedure add_k(k: in alphabet; set: in out conjunto) is
 
-      -- Declarations
       i: iterador;
       found: Boolean;
       k_aux: alphabet;
@@ -60,12 +56,8 @@ procedure Main is
       end loop;
 
       if found then
-         -- Increment frequency of key 'k'
          actualiza(set, k, f_aux+1);
-
       else
-         -- Add key 'k' to the set
-
          poner(set, k, 1);
       end if;
 
@@ -76,17 +68,20 @@ procedure Main is
 begin
    cvacio(set);
 
-   -- Read the input file
+   -- Read the input
    Open(inputF, In_File, "entrada.txt");
    while not End_Of_File(inputF) loop
       Get_Line(inputF, s, l);
+
       for i in 1..l loop
-         k := s(i);                       -- Get each char of the string
+         k := s(i);
          add_k(k, set);
       end loop;
    end loop;
+
    Close(inputF);
 
+   -- Write the outputs
    Create(outputF, Out_File, "entrada_freq.txt");
    printSet(set, outputF);
    Close(outputF);

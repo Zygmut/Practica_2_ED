@@ -1,5 +1,5 @@
 generic
-   type key is (<>); -- tipo discreto
+   type key is (<>);
    type item is private;
 
 package d_conjunto is

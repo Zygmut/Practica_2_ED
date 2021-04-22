@@ -38,9 +38,13 @@
       <vfs_project>/home/zygmut/bin/git/Practica_2_ED/Practica_2/default.gpr</vfs_project>
       <vfs_file>/home/zygmut/bin/git/Practica_2_ED/Practica_2/src/d_conjunto.ads</vfs_file>
     </file_marker>
-    <file_marker current="true" column=" 1" line=" 1" >
+    <file_marker column=" 1" line=" 1" >
       <vfs_project>/home/zygmut/bin/git/Practica_2_ED/Practica_2/default.gpr</vfs_project>
       <vfs_file>/home/zygmut/bin/git/Practica_2_ED/Practica_2/src/main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>/home/zygmut/bin/git/Practica_2_ED/Practica_2/default.gpr</vfs_project>
+      <vfs_file>/home/zygmut/bin/git/Practica_2_ED/Practica_2/src/d_set.ads</vfs_file>
     </file_marker>
   </Project>
 </Locations>
