@@ -46,7 +46,7 @@ package body d_conjunto is
    begin
       k:= key'first;
       while not e(k) and k < key'last loop k:= key'succ(k); end loop;
-      valid:= e(k);
+      valid:= e(k); -- puede pasar que el conjunto esté vacío y si sucede el iterador no es válido
    end primero;
 
    procedure siguiente(s: in conjunto; it : in out iterador) is
@@ -55,7 +55,7 @@ package body d_conjunto is
       valid : boolean renames it.valid;
    begin
       if not valid then raise mal_uso; end if ;
-      if k < key'last then
+      if k < key'last then -- descartamos que no esté sobre el último elemento
          k:= key'succ(k);
          while not e(k) and k < key'last loop k := key'succ(k); end loop;
          valid:= e(k);
