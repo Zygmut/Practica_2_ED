@@ -1,0 +1,68 @@
+V "GNAT Lib v2019"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_ALLOCATORS
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTIONS
+RV NO_LOCAL_ALLOCATORS
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U d_arbol_binario%b	d_arbol_binario.adb	23662ab6 NE OO PK GE IL
+
+U d_arbol_binario%s	d_arbol_binario.ads	3f27880f BN EE NE OO PK GE IL
+
+D d_arbol_binario.ads	20210504164828 3f27880f d_arbol_binario%s
+D d_arbol_binario.adb	20210504164852 1c41a2b9 d_arbol_binario%b
+D system.ads		20190518041258 32a08138 system%s
+G a e
+G c Z s b [d_arbol_binario standard 4 9 none]
+X 1 d_arbol_binario.ads
+2+9 elem 12r66 13r44 21r10 2|17r58 29r39
+4k9*d_arbol_binario 2z9 18E9 29l5 29e20 2|1b14 58l5 58t20
+5R9*arbol 10r31 11r33 12r30 12r51 13r28 14r27 14r44 15r27 15r44 25c9 27e14
+. 2|3r28 10r30 17r27 17r45 29r25 38r24 38r39 48r24 48r39
+7X4*mal_uso 2|34r38 44r38 54r38
+8X4*espacio_desbordado 2|25r35
+10U14*avacio 10<23 2|3b14 7l8 7t14
+10r23 t{5R9} 2|3b21 4m24 4r24
+11V13*esta_vacio{boolean} 11>26 2|10b13 14l8 14t18
+11r26 t{5R9} 2|10b24 11r24
+12U14*graft 12<22 12>38 12>43 12>59 2|17b14 26l8 26t13
+12r22 t{5R9} 2|17b20 18m24 18r24
+12r38 lt{5R9} 2|17b34 19r25
+12r43 rt{5R9} 2|17b38 20r25
+12*59 x{2+9} 2|17b52 23r16
+13U14*raiz 13>21 13<36 2|29b14 35l8 35t12
+13r21 t{5R9} 2|29b19 30r24
+13*36 x{2+9} 2|29b32 32m7
+14U14*izq 14>20 14<35 2|38b14 45l8 45t11
+14r20 t{5R9} 2|38b18 39r24
+14r35 lt{5R9} 2|38b31 40m25 40r25
+15U14*der 15>20 15<35 2|48b14 55l8 55t11
+15r20 t{5R9} 2|48b18 49r24
+15r35 rt{5R9} 2|48b31 50m25 50r25
+18R9 nodo 19r25 20c9 23e14 2|22r15
+19P9 pnodo(18R9) 22r13 26r13 2|4r10 11r10 18r10 19r11 20r11 30r10 39r10 40r11
+. 49r10 50r11
+21*7 x{2+9} 2|32r13
+22p7 l{19P9} 2|42r14
+22p10 r{19P9} 2|52r14
+26p7 raiz{19P9} 2|4m26 11m26 18m26 19m28 20m28 30m26 39m26 40m28 49m26 50m28
+X 2 d_arbol_binario.adb
+4p7 p{1|19P9} 6r7
+11p7 p{1|19P9} 13r14
+18p7 p{1|19P9} 22r7 23r7
+19p7 pl{1|19P9} 23r19
+20p7 pr{1|19P9} 23r23
+30p7 p{1|19P9} 32r11
+39p7 p{1|19P9} 42r12
+40p7 pl{1|19P9} 42r7
+49p7 p{1|19P9} 52r12
+50p7 pr{1|19P9} 52r7
+

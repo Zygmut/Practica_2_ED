@@ -1,50 +1,222 @@
 <?xml version="1.0"?>
 <Locations >
   <Project>
-    <vfs_file />
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project />
-      <vfs_file>/home/zygmut/uni/EDD/ADA projects/Practica_2/src/d_conjunto.ads</vfs_file>
+    <vfs_file>D:\GNAT\Projects\Prac2\default.gpr</vfs_file>
+    <file_marker column=" 41" line=" 53" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\d_priority_queue.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 12" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\d_priority_queue.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 26" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\d_arbol_binario.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 20" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\d_arbol_binario.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 7" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\d_conjunto.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 82" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\d_conjunto.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 166" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 167" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 170" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 170" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 167" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 168" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 167" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 140" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 168" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 138" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 138" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 149" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 136" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 177" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
     </file_marker>
     <file_marker column=" 1" line=" 1" >
       <vfs_project />
-      <vfs_file>/home/zygmut/uni/EDD/ADA projects/Practica_2/src/d_conjunto.adb</vfs_file>
+      <vfs_file />
     </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project />
-      <vfs_file>/home/zygmut/uni/EDD/ADA projects/Practica_2/src/d_conjunto.ads</vfs_file>
+    <file_marker column=" 18" line=" 278" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project />
-      <vfs_file>/home/zygmut/uni/EDD/ADA projects/Practica_2/src/d_conjunto.adb</vfs_file>
+    <file_marker column=" 25" line=" 177" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 49" >
-      <vfs_project />
-      <vfs_file>/home/zygmut/uni/EDD/ADA projects/Practica_2/src/d_conjunto.adb</vfs_file>
+    <file_marker column=" 13" line=" 5" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 16" line=" 9" >
-      <vfs_project />
-      <vfs_file>/home/zygmut/uni/EDD/ADA projects/Practica_2/src/d_conjunto.ads</vfs_file>
+    <file_marker column=" 8" line=" 178" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project />
-      <vfs_file>/home/zygmut/uni/EDD/ADA projects/Practica_2/src/main.adb</vfs_file>
+    <file_marker column=" 23" line=" 192" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>/home/zygmut/bin/git/Practica_2_ED/Practica_2/default.gpr</vfs_project>
-      <vfs_file>/home/zygmut/bin/git/Practica_2_ED/Practica_2/src/d_conjunto.adb</vfs_file>
+    <file_marker column=" 55" line=" 180" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>/home/zygmut/bin/git/Practica_2_ED/Practica_2/default.gpr</vfs_project>
-      <vfs_file>/home/zygmut/bin/git/Practica_2_ED/Practica_2/src/d_conjunto.ads</vfs_file>
+    <file_marker column=" 20" line=" 198" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>/home/zygmut/bin/git/Practica_2_ED/Practica_2/default.gpr</vfs_project>
-      <vfs_file>/home/zygmut/bin/git/Practica_2_ED/Practica_2/src/main.adb</vfs_file>
+    <file_marker column=" 20" line=" 205" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker current="true" column=" 1" line=" 1" >
-      <vfs_project>/home/zygmut/bin/git/Practica_2_ED/Practica_2/default.gpr</vfs_project>
-      <vfs_file>/home/zygmut/bin/git/Practica_2_ED/Practica_2/src/d_set.ads</vfs_file>
+    <file_marker column=" 10" line=" 278" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 281" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 262" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 283" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 233" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 40" line=" 244" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 236" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 40" line=" 244" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 236" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 244" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 236" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 244" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 219" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 227" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 219" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 227" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 244" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 236" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 283" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 247" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 48" line=" 248" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 240" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 219" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 40" line=" 244" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 25" line=" 239" >
+      <vfs_project>D:\GNAT\Projects\Prac2\default.gpr</vfs_project>
+      <vfs_file>D:\GNAT\Projects\Prac2\src\main.adb</vfs_file>
     </file_marker>
   </Project>
 </Locations>
